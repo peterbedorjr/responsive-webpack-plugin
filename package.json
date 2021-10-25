@@ -7,8 +7,11 @@
   ],
   "description": "Generates mixins and breakpoint scss files",
   "main": "ResponsiveWebpackPlugin.js",
+  "np": {
+    "tests": false
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "keywords": [],
   "author": "Peter Bedor",
