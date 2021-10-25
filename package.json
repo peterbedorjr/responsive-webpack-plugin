@@ -2,9 +2,6 @@
   "name": "responsive-webpack-plugin",
   "version": "1.0.2",
   "repository": "peterbedorjr/responsive-webpack-plugin",
-  "files": [
-    "./src/*"
-  ],
   "description": "Generates mixins and breakpoint scss files",
   "main": "./src/ResponsiveWebpackPlugin.js",
   "np": {
