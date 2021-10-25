@@ -6,7 +6,7 @@
     "./src/*"
   ],
   "description": "Generates mixins and breakpoint scss files",
-  "main": "ResponsiveWebpackPlugin.js",
+  "main": "./src/ResponsiveWebpackPlugin.js",
   "np": {
     "tests": false
   },
